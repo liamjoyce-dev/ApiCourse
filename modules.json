@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Module 1 – Understanding APIs",
+    "slug": "module-1-understanding-apis",
+    "summary": "What APIs are, why they matter, and real-world examples across industries.",
+    "path": "modules/module-1-understanding-apis.html"
+  },
+  {
+    "id": 2,
+    "title": "Module 2 – Picking a Profitable API Idea",
+    "slug": "module-2-picking-a-profitable-api-idea",
+    "summary": "How to find, validate, and position profitable API ideas.",
+    "path": "modules/module-2-picking-a-profitable-api-idea.html"
+  },
+  {
+    "id": 3,
+    "title": "Module 3 – Creating APIs (No Code & Code)",
+    "slug": "module-3-creating-apis-no-code-code",
+    "summary": "Hands-on: build an API via no-code and with Python/Node.",
+    "path": "modules/module-3-creating-apis-no-code-code.html"
+  },
+  {
+    "id": 4,
+    "title": "Module 4 – Designing APIs for Real-World Use",
+    "slug": "module-4-designing-apis-for-real-world-use",
+    "summary": "RESTful design, endpoints, formats, and scalability principles.",
+    "path": "modules/module-4-designing-apis-for-real-world-use.html"
+  },
+  {
+    "id": 5,
+    "title": "Module 5 – Securing APIs",
+    "slug": "module-5-securing-apis",
+    "summary": "Authentication, rate limiting, encryption, and compliance basics.",
+    "path": "modules/module-5-securing-apis.html"
+  },
+  {
+    "id": 6,
+    "title": "Module 6 – Documenting APIs",
+    "slug": "module-6-documenting-apis",
+    "summary": "OpenAPI/Swagger, examples, and quick-start docs that convert.",
+    "path": "modules/module-6-documenting-apis.html"
+  },
+  {
+    "id": 7,
+    "title": "Module 7 – Deploying and Monetizing APIs",
+    "slug": "module-7-deploying-and-monetizing-apis",
+    "summary": "Ship to marketplaces, set pricing, and track usage analytics.",
+    "path": "modules/module-7-deploying-and-monetizing-apis.html"
+  },
+  {
+    "id": 8,
+    "title": "Module 8 – Marketing Your API",
+    "slug": "module-8-marketing-your-api",
+    "summary": "Grow adoption with landing pages, SEO, content, and community.",
+    "path": "modules/module-8-marketing-your-api.html"
+  },
+  {
+    "id": 9,
+    "title": "Module 9 – Maintaining & Scaling",
+    "slug": "module-9-maintaining-scaling",
+    "summary": "Uptime monitoring, feedback loops, versioning, and scaling.",
+    "path": "modules/module-9-maintaining-scaling.html"
+  }
+]
